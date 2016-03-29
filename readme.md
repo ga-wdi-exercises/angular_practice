@@ -22,7 +22,9 @@ This exercise **DOES NOT** make use of any additional Angular modules like `ui-r
 
 ## Build a Social Network (Advanced)
 
-In [this exercise](http://hannahhoward.github.io/angular-intermediate-wdi/) you will combine your knowledge of basic Angular with additional modules like `ui-router` and `ngResource` to build a social network.  
+Clone down [this repo](https://github.com/hannahhoward/angular-intermediate-wdi).`
+
+In [this exercise](http://hannahhoward.github.io/angular-intermediate-wdi/) you will combine your knowledge of basic Angular with additional modules like `ui-router` and `ngResource` to build a social network from the starter code.  
 
 ## Continue Working on Grumblr
 
