@@ -6,7 +6,9 @@ Instructors will be available to answer questions in the classroom, regardless o
 
 ## Superhero Phonebook (Beginner)
 
-In [this exercise](http://hannahhoward.github.io/angular-starter-wdi/), you will build a basic Angular app. Choose this option if you would like practice with any of the following...
+Clone down [this repo](https://github.com/ga-wdi-exercises/angular-starter-wdi).
+
+In [this exercise](http://hannahhoward.github.io/angular-starter-wdi/), you will build a basic Angular app off of the starter code. Choose this option if you would like practice with any of the following...
 * `ng-app`
 * `ng-repeat`
 * `ng-model`
@@ -14,7 +16,7 @@ In [this exercise](http://hannahhoward.github.io/angular-starter-wdi/), you will
 * `ng-class`
 * `ng-click`
 
-This exercise does not make use of any additional Angular modules like `ui-router` or `ngResource`.
+This exercise **DOES NOT** make use of any additional Angular modules like `ui-router` or `ngResource`.
 
 > NOTE: The bonuses require Angular modules that we will not be teaching you in WDI.  
 
